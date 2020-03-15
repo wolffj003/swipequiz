@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Swipe Quiz</string>
+
+    <!--Instructions-->
+    <string name="tvInstructionsHeading">Quiz instructions</string>
+    <string name="tvInstructionsBody">Swipe left for answering TRUE swipe right for answering FALSE.</string>
+
+    <!--Questions-->
+    <string-array
+        name="questions">
+        <item>Is de aarde rond?</item>
+        <item>Is het BGP protocol voor je thuisnetwerk?</item>
+        <item>Is this a question?</item>
+        <item>Yes or no?</item>
+    </string-array>
+
+    <string name="question0">Is de aarde rond?</string>
+    <string name="question1">Is het BGP protocol voor je thuisnetwerk?</string>
+    <string name="question2">Is this a question?</string>
+    <string name="question3">Yes or no?</string>
+
+    <!--Feedback-->
+    <string name="fbCorrect">Correct!</string>
+    <string name="fbIncorrect">That\'s a miss...</string>
+
+</resources>
